@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Chocolate Factory Test\n";
+    std::cout << "Tutoring Session\n";
 }
  
