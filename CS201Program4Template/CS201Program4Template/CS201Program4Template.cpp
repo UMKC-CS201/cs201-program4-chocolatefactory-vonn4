@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Tutoring Session\n";
+    std::cout << "Practice Attemp\n";
 }
  
