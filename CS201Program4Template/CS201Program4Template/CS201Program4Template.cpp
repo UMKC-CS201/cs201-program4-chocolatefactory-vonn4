@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "push attempt" << endl;
+    std::cout << "push " << endl;
 }
  
