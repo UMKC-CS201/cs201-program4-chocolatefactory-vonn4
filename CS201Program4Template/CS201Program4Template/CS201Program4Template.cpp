@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "push " << endl;
+    std::cout << "push to github" << endl;
 }
  
